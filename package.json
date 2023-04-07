@@ -1,9 +1,9 @@
 {
-  "name": "virtual-event-starter-kit",
-  "description": "Starter kit for your virtual event.",
+  "name": "web3-event-kit",
+  "description": "Starter kit for your virtual event, including web3 features that we all love.",
   "private": true,
-  "repository": "vercel/virtual-event-starter-kit",
-  "author": "Vercel Inc.",
+  "repository": "D-D-Agency/web3-event-kit",
+  "author": "D_D Agency",
   "homepage": "https://demo.vercel.events",
   "license": "Apache-2.0",
   "engines": {
