@@ -4,7 +4,7 @@
   "private": true,
   "repository": "D-D-Agency/web3-event-kit",
   "author": "D_D Agency",
-  "homepage": "https://demo.vercel.events",
+  "homepage": "https://web3-event-kit.vercel.app/",
   "license": "Apache-2.0",
   "engines": {
     "node": "^14"

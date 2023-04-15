@@ -1,11 +1,11 @@
 {
-  "name": "Virtual Event Starter Kit",
-  "description": "Fully customizable starter kit for your virtual event.",
-  "previewImage": "https://demo.vercel.events/twitter-card.png",
-  "datocmsProjectId": "37685",
+  "name": "Web3 Event Kit",
+  "description": "Online event kit that includes web3 features we all love.",
+  "previewImage": "https://web3-event-kit.vercel.app/twitter-card.png",
+  "datocmsProjectId": "98590",
   "deploymentType": "vercel",
   "vercelIntegrationIds": ["oac_7yeSwUoVR5no3SlA9WM6oR7l"],
   "buildCommand": "npm run build",
   "datocmsApiTokenEnvName": "DATOCMS_READ_ONLY_API_TOKEN",
-  "livePreviewUrl": "https://demo.vercel.events/"
+  "livePreviewUrl": "https://web3-event-kit.vercel.app/"
 }
