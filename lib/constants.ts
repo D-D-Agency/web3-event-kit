@@ -19,10 +19,10 @@ export const SITE_URL = 'https://web3-event-kit.vercel.app';
 export const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_ORIGIN || new URL(SITE_URL).origin;
 export const TWITTER_USER_NAME = 'd_d_agency_web3';
 export const BRAND_NAME = 'D_D Agency';
-export const SITE_NAME_MULTILINE = ['Agency', 'Conf'];
-export const SITE_NAME = 'Agency Conf';
+export const SITE_NAME_MULTILINE = ['Agency', 'Test Conference'];
+export const SITE_NAME = 'Agency Test Conference';
 export const META_DESCRIPTION =
-  'This is an open source project that Next.js developers can clone, deploy, and fully customize for web3 native events. Created through collaboration of marketers, designers, and developers at Vercel with a web3 touch from D_D Agency.';
+  'This is an open source Next.js project created through collaboration of marketers, designers, and developers at Vercel, 100ms and D_D Agency.';
 
 export const TWEET_TEXT = META_DESCRIPTION;
 export const SITE_DESCRIPTION =
